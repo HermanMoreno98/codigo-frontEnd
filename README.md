@@ -4,8 +4,8 @@
 **_git init_**
  
 ### Configurando git con GitHub
-**_git config --global user.email <Enter yout email>_**
-**_git config --global user.name <Enter your user name on GitHub>_**
+**_git config --global user.email <Enter_your_email>_**
+**_git config --global user.name <Enter_your_user_name_on_GitHub>_**
   
 ### Conexion remota con GitHub
 **_git remote add origin  <REMOTE_URL>_**
