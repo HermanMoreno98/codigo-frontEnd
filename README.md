@@ -20,13 +20,13 @@
 **_git add ._**
  
 ### Commiteando los cambios
-**_git commit -m <Nombre del commit>_**
+**_git commit -m <Nombre_del_commit>_**
   
 ### Agregando todos los commits a GitHub
-**_git push origin <Nombre de rama creada>_**
+**_git push origin <Nombre_de_rama_creada>_**
    
 ### Creando nueva rama
-**_git branch <Nombre de nueva rama>_**
+**_git branch <Nombre_de_nueva_rama>_**
    
 ### Cambiando entre ramas
-**_git checkout <Nombre de rama a cambiar>_**
+**_git checkout <Nombre_de_rama_a_cambiar>_**
